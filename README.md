@@ -15,6 +15,10 @@ Steps in to use this file..
 I worked on this while working a a health care setting so this is way more tailored for HMs, Feel free to modify this sheet to fit your situation.
 I will try to make it more user friendly in my spare time if i can.
 
-Notes: Most formulas are hidden in hidden tabs.
-       BUG: If month starts on a saturday and has 31 days, there may be a few squares missing at the end, will fix later.
-       BUG: 
+
+Notes: The box next to the roster will turn Green, Yellow, or Red, depending if the person is in a group / duty section.
+       The numbers on the "Panel" sheet will update when you change something, if your feeling adventurous, Unhide the "MiscFormulas" tab and customize if you like.
+
+Other Notes: Most formulas are hidden in hidden tabs.
+             BUG: If month starts on a saturday and has 31 days, there may be a few squares missing at the end, will fix later.
+             
