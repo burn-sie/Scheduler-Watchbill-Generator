@@ -1,4 +1,7 @@
 # Scheduler
+
+NOTES on newest release: Its not finished so ive locked a bunch of stuff, It is also not finished but it works for the most part. Also locked so its harder for users to break the formulas.
+
 If you have found this, this is a simple navy monthly watchbill generator i created in my spare time.
 
 Thought i may put it here and see if anyone else finds it useful and maybe contribute make it better. Who knows, maybe it'll make someones life way less stressfull.
