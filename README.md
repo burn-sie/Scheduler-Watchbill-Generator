@@ -19,3 +19,6 @@ Other Notes: Most formulas are hidden in hidden tabs.
 
 This scheduler for me is now low priority. But if you want features added, then let me know and ill see what i can do. No promises.
 Next project will be creating a standalone program if time allows and i need a project.
+
+
+Download from the Releases page : https://github.com/burn-sie/Scheduler/releases
