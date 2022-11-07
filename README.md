@@ -1,5 +1,8 @@
 # Scheduler - A Navy Watchbill Generator in Excel. Must have Office 2019+. Excel 2016 may work but may break some stuff. Office Web Excel will not support the pictures updating so use the Desktop version. May create multiple version of watchbill later.
 
+<img width="1333" alt="Panel" src="https://user-images.githubusercontent.com/96800768/200410766-bb2da120-5962-4734-a736-05cfd84691b4.png">
+<img width="1423" alt="Watchbill" src="https://user-images.githubusercontent.com/96800768/200410769-fc9dbb27-e0ad-4be2-ad6a-fbf6c109299a.png">
+
 NOTES on newest release: Its not finished so ive locked a bunch of stuff, It is also not finished but it works for the most part. Also locked so its harder for users to break the formulas.
 
 If you have found this, this is a simple navy monthly watchbill generator i created in my spare time.
@@ -22,3 +25,4 @@ Next project will be creating a standalone program if time allows and i need a p
 
 
 Download from the Releases page : https://github.com/burn-sie/Scheduler/releases
+
