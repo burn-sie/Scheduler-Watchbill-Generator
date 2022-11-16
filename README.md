@@ -1,4 +1,4 @@
-# Scheduler - A Navy Watchbill Generator in Excel. Must have Office 2019+. Excel 2016 may work but may break some stuff. Office Web Excel will not support the pictures updating so use the Desktop version.
+# Scheduler - A Watchbill Generator in Excel. Must have Office 2019+. Excel 2016 may work but may break some stuff. Office Web Excel will not support the pictures updating so use the Desktop version.
 
 <img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/PanelFront.png">
 <img width="1423" alt="Watchbill" src="https://github.com/burn-sie/Scheduler/raw/main/watchbillFront.png">
