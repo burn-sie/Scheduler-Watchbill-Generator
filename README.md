@@ -15,5 +15,8 @@ I will try to make it more user friendly in my spare time if i can.
 This scheduler for me is now low priority. But if you want features added, then let me know and ill see what i can do. No promises.
 Next project will be creating a standalone program if time allows and i need a project.
 
+NOTE:
+  The warning for people scheduled during vacation will only work with office 2021+ for now.
+
 Navy Watchbill Generator
 
