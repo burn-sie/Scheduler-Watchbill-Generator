@@ -1,7 +1,7 @@
 # Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Excel 2019 and 2016 may work but may break some stuff. Office Web Excel will not support the pictures updating so use the Desktop version.
 
 <img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/PanelFront.png">
-<img width="1423" alt="Watchbill" src="https://github.com/burn-sie/Scheduler/raw/main/watchbillFront.png">
+<img width="1423" alt="Watchbill" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/GeneratedBill.png">
 
 If you have found this, this is a simple schedule generator i created in my spare time.
 
