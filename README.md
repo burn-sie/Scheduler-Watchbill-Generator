@@ -1,4 +1,4 @@
-# Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Excel 2019 and 2016 may work but may break some stuff. Office Web Excel will not support the pictures updating so use the Desktop version.
+# Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Older Excel versions may work but may break features or not work at all. Office Web Excel will not support pictures updating so use the Desktop version.
 
 <img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/PanelFront.png">
 <img width="1423" alt="Watchbill" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/GeneratedBill.png">
@@ -16,7 +16,9 @@ This scheduler for me is now low priority. But if you want features added, then 
 Next project will be creating a standalone program if time allows and i need a project.
 
 NOTE:
-  The warning for people scheduled during vacation will only work with office 2021+ for now.
+  Most of the dashboard features and some other functions rely on office 2021 features, and will display an error in older versions of Excel.
 
-Navy Watchbill Generator
+
+
+Search Engine Keywords: Navy Watchbill Generator
 
