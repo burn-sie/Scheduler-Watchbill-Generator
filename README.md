@@ -1,6 +1,6 @@
 # Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Older Excel versions may work but may break features or not work at all. Office Web Excel will not support pictures updating so use the Desktop version.
 
-<img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/PanelFront.png">
+<img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/Scheduler%20v0.08.png">
 <img width="1423" alt="Watchbill" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/GeneratedBill.png">
 
 If you have found this, this is a simple schedule generator i created in my spare time.
@@ -17,7 +17,7 @@ Next project will be creating a standalone program if time allows and i need a p
 
 NOTE:
   Most of the dashboard features and some other functions rely on office 2021 features, and will display an error in older versions of Excel.
-
+  V0.08 has improved and made most formulas more efficient and possibly future proof. I wont post them on here but if you ask i may send it your way. The newer features require Office 2021 or later. V8 is the screenshot above.
 
 
 Search Engine Keywords: Navy Watchbill Generator
