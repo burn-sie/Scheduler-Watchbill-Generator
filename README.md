@@ -1,4 +1,4 @@
-# Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Older Excel versions may work but may break features or not work at all. Office Web Excel will not support pictures updating so use the Desktop version.
+# Scheduler - A Schedule Generator in Excel. Must have Office 2021+. Older Excel versions may work but may break features or not work at all. Office Web Excel will not support pictures updating.
 
 <img width="1333" alt="Panel" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/Scheduler%20v0.08.png">
 <img width="1423" alt="Watchbill" src="https://raw.githubusercontent.com/burn-sie/Scheduler/main/GeneratedBill.png">
