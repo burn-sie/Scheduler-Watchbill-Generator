@@ -1,0 +1,50 @@
+Changelog:
+V.09 - Rearranged Layout.
+            Added refrence so changes can be made directly from the panel tab. Makes it easier to use.
+V.08 - Added error correcting to roster. If you dont add a last name, comma, and a first name, it will try to 
+           "guess" only the last name. Keeps the watchbill uncluttered. If you still mess up it'll default to using 
+           the whole cell for the name.
+            Added warning to the date box in roster. When filling cell, it'll warn you when input entered is not
+            a date, and give you examples on how you can enter a date.
+            Switched some formating to be controlled by conditional formatting.
+            Rewrote how we check if someone is scheduled on a vacation day. The warning window should now
+            display the days that conflict with vacation.
+            Added Option to only show non schduled people in the group drop downs to make it easier to fill.
+            Reworked Formulas in WatchbillMONTHLY to be more efficient and possibly easier to modify in the 
+            future. 
+            Removed unneded conditional formating where any value of 0 would be set to white. Not needed
+            with new formulas.
+            Fixed a typo in conditional formatting for a green highlight in the personnell roster. Now if the date a 
+            person has left already passed, it should still stay highlighted green. Changed one > to a <.
+            Cleaned up redundant conditional formatting to speed up worksheets.
+            Updated formula in personnell to extract the first letter of the first name, This makes its easier to tell 
+            people apart if the share a last name.
+            Rearranged Panel sheet to make it more printer friendly.
+            Changed Formulas for upcoming holidays box and deleted the updating picture in the panels sheet. 
+            Formula for upcoming holidays in the panel sheet is now inside a cell.
+            Added more slots for groups.
+            Changed LAMBDA functions to nested XLOOKUPS with INDIRECTS so the vacation tracker can work on 
+            office versions 2021 Stand Alone.
+            Added Bar Chart to Panel.
+V.07 - Print Tiles were added to the TimeOffTracker sheet in order for the days to print on everysheet.
+             Roster moved to dedicated tab.
+             Start cleaning up some refrences, from ranges to table names and columns
+             
+v.06 - Fixed the Vacation tracker where it wasnt warning unless day 1 was checked.
+           Fixed personell counting in the number tracker on the top right of sheet "Panel".
+           TimeOffTracker will now fill in the column black if the month contains less days.
+           Vacation Roster no longer a drop down and just copies the entire roster onto its sheet.
+           Added hidden helper column to TimeOffTracker sheet to help find people scheduled on vacation.
+           Converted table in TimeOffTracker sheet to range for mitigation spills a table cannot handle.
+           Counter for personnel in groups now goes by counting people in the groups and not a work around.
+           Counter for personnel in groups will highlight, to give you a warning, if your roster vs people assigned dont add up.
+v.05 - Added Vacation Tab to keep track of time off.
+           Added Warning picture to the panel tab. It'll warn of potential conflicts in scheduling and other factors.
+             for now it only warns if you schedule someone while they are on vacation. (REQUIRES OFFICE 2021+)
+           
+v.04  - Added Upcoming Holidays to calendar sheet.  
+            Add Yellow formating if someone on a duty section is not in roster list.
+            Fixed Personnel override in watchbill tab. Should now return Full roster.
+            Fixed Notes dropdown. Should now show full peronnell list.
+
+V.01-03 - Initial.
