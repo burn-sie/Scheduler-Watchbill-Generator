@@ -1,9 +1,14 @@
 Changelog:
-V.09 -     Rearranged Layout.
-           Added refrence so changes can be made directly from the panel tab. Makes it easier to use.
+V.09 - Rearranged Layout.
+            Added refrence so changes can be made directly from the panel tab. Makes it easier to use.
            Started adding comments to options. Makes it easier to understand.
            Started editing charts to account for different amounts of active groups.
-V.08 -     Added error correcting to roster. If you dont add a last name, comma, and a first name, it will try to 
+           Changed order and made "stop if true" for Conditional Formatting" in some sheets, this reduces lag    
+           when scrolling.
+           Added Freeze Pane to roster so the graphs do not move while filling out table. Makes it easier to fill
+           while having all the information that may be needed visible.
+           Removed extra line from Upcoming Holidays.
+V.08 - Added error correcting to roster. If you dont add a last name, comma, and a first name, it will try to 
            "guess" only the last name. Keeps the watchbill uncluttered. If you still mess up it'll default to using 
            the whole cell for the name.
             Added warning to the date box in roster. When filling cell, it'll warn you when input entered is not
@@ -28,11 +33,11 @@ V.08 -     Added error correcting to roster. If you dont add a last name, comma,
             Changed LAMBDA functions to nested XLOOKUPS with INDIRECTS so the vacation tracker can work on 
             office versions 2021 Stand Alone.
             Added Bar Chart to Panel.
-V.07 -      Print Tiles were added to the TimeOffTracker sheet in order for the days to print on everysheet.
+V.07 - Print Tiles were added to the TimeOffTracker sheet in order for the days to print on everysheet.
              Roster moved to dedicated tab.
              Start cleaning up some refrences, from ranges to table names and columns
              
-v.06 -     Fixed the Vacation tracker where it wasnt warning unless day 1 was checked.
+v.06 - Fixed the Vacation tracker where it wasnt warning unless day 1 was checked.
            Fixed personell counting in the number tracker on the top right of sheet "Panel".
            TimeOffTracker will now fill in the column black if the month contains less days.
            Vacation Roster no longer a drop down and just copies the entire roster onto its sheet.
@@ -40,13 +45,13 @@ v.06 -     Fixed the Vacation tracker where it wasnt warning unless day 1 was ch
            Converted table in TimeOffTracker sheet to range for mitigation spills a table cannot handle.
            Counter for personnel in groups now goes by counting people in the groups and not a work around.
            Counter for personnel in groups will highlight, to give you a warning, if your roster vs people assigned dont add up.
-v.05 -     Added Vacation Tab to keep track of time off.
+v.05 - Added Vacation Tab to keep track of time off.
            Added Warning picture to the panel tab. It'll warn of potential conflicts in scheduling and other factors.
-           for now it only warns if you schedule someone while they are on vacation. (REQUIRES OFFICE 2021+)
+             for now it only warns if you schedule someone while they are on vacation. (REQUIRES OFFICE 2021+)
            
-v.04  -    Added Upcoming Holidays to calendar sheet.  
-           Add Yellow formating if someone on a duty section is not in roster list.
-           Fixed Personnel override in watchbill tab. Should now return Full roster.
-           Fixed Notes dropdown. Should now show full peronnell list.
+v.04  - Added Upcoming Holidays to calendar sheet.  
+            Add Yellow formating if someone on a duty section is not in roster list.
+            Fixed Personnel override in watchbill tab. Should now return Full roster.
+            Fixed Notes dropdown. Should now show full peronnell list.
 
 V.01-03 - Initial.
