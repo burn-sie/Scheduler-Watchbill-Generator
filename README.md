@@ -20,5 +20,5 @@ NOTE:
   V0.08 has improved and made most formulas more efficient and possibly future proof. I wont post them on here but if you ask i may send it your way. The newer features require Office 2021 or later. V8 is the screenshot above.
 
 
-Search Engine Keywords: Navy Watchbill Generator
+Search Engine Keywords: Automatic Auto Navy Watchbill Schedule  Scheduler Generator Generation 
 
